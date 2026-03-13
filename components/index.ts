@@ -1,1 +1,1 @@
-export { default as projectcard } from './projectcard';
+export { default as projectcard} from './projectcard';
